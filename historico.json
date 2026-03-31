@@ -1,0 +1,482 @@
+[
+  {
+    "pagina": 1,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Computadora se apaga sola por sobrecalentamiento",
+    "fragmento": "Un diseñador reportó que su computadora se apagaba repentinamente al usar programas pesados. Tras abrir el equipo, se encontró acumulación de polvo en los ventiladores. Se realizó limpieza, se aplicó pasta térmica nueva y el problema desapareció."
+  },
+  {
+    "pagina": 1,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Teclado deja de responder por fallas en el puerto USB",
+    "fragmento": "Una colaboradora de Compras informó que su teclado dejaba de responder de forma intermitente. Al probar en otro puerto funcionó correctamente. Se determinó daño en el puerto USB original y se reemplazó la placa, resolviendo el inconveniente."
+  },
+  {
+    "pagina": 1,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "CRM congela la computadora por conflicto con controladores",
+    "fragmento": "Un usuario de Ventas experimentó bloqueos al abrir el CRM. La revisión detectó un conflicto entre el software y los controladores de red. Se reinstaló la aplicación y se actualizó el adaptador de red. El sistema volvió a funcionar sin fallas."
+  },
+  {
+    "pagina": 2,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Impresora no imprime por controlador dañado",
+    "fragmento": "En Contabilidad se reportó una impresora que no respondía. El diagnóstico mostró que el driver estaba dañado tras una actualización. Se reinstaló el controlador oficial y se reinició el servicio de impresión, restaurando la funcionalidad."
+  },
+  {
+    "pagina": 2,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Computadora se congela en el inicio de Windows",
+    "fragmento": "Un empleado de Recursos Humanos indicó que su equipo se quedaba bloqueado en el logo de Windows. Se accedió al modo seguro, se desinstaló una actualización defectuosa y se ejecutó una reparación del sistema. El equipo volvió a iniciar correctamente."
+  },
+  {
+    "pagina": 2,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Movimiento del mouse por acceso remoto no autorizado",
+    "fragmento": "En Marketing se observó que el puntero del mouse se movía sin control. Se verificó que existía una conexión remota activa sin permiso. Se cerró la sesión, se cambiaron las contraseñas y se reforzó la seguridad del sistema. No se repitió el incidente."
+  },
+  {
+    "pagina": 3,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Pantalla parpadeante en laptop por controlador de video corrupto",
+    "fragmento": "Un colaborador de Proyectos Especiales informó que la pantalla de su laptop parpadeaba. El controlador de video estaba dañado. Se reinstaló el driver actualizado y el problema desapareció. Se recomendó evitar actualizaciones automáticas de video."
+  },
+  {
+    "pagina": 3,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Excel se cierra al abrir archivos grandes",
+    "fragmento": "Un usuario de Finanzas reportó cierres inesperados de Excel al abrir hojas con muchas fórmulas. Se amplió la memoria virtual, se desactivaron complementos y se actualizó Office. Después de las modificaciones, el problema quedó resuelto."
+  },
+  {
+    "pagina": 3,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Pérdida de audio tras actualización del sistema",
+    "fragmento": "En Producción se perdió el audio tras una actualización de Windows. Se reinstaló el controlador de sonido y se reconfiguró la salida de audio. El sistema recuperó el sonido correctamente después del reinicio."
+  },
+  {
+    "pagina": 4,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Cambio de resolución de pantalla por driver de video",
+    "fragmento": "Un colaborador de Calidad notó que la resolución de su pantalla cambió repentinamente. Se determinó que el controlador de video se dañó durante una actualización. Tras reinstalarlo, la resolución volvió a su estado normal."
+  },
+  {
+    "pagina": 4,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Puertos USB inactivos por error en el registro del sistema",
+    "fragmento": "En Ventas se reportó que la computadora no detectaba dispositivos USB. Se limpió el registro de Windows y se reinstalaron los controladores de los puertos. Luego del reinicio, los dispositivos fueron reconocidos correctamente."
+  },
+  {
+    "pagina": 4,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Software de personal se cierra sin error visible",
+    "fragmento": "Una colaboradora de Recursos Humanos reportó que su software de gestión se cerraba sin aviso. Se halló un conflicto con la base de datos. Se aplicó una actualización del proveedor y se restauró el acceso. El sistema volvió a operar normalmente."
+  },
+  {
+    "pagina": 5,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Error de autenticación en Outlook",
+    "fragmento": "En Producción se registró un problema con Outlook solicitando contraseña repetidamente. Se restableció la caché de credenciales y se creó un nuevo perfil. El correo volvió a sincronizarse correctamente con el servidor."
+  },
+  {
+    "pagina": 5,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Fallo al reproducir videos por controlador gráfico dañado",
+    "fragmento": "En Marketing, un usuario no podía reproducir videos. El diagnóstico mostró un driver de video corrupto. Se reinstaló la tarjeta gráfica y los videos se reprodujeron correctamente después de actualizar el controlador."
+  },
+  {
+    "pagina": 5,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Reinicio aleatorio por placa base defectuosa",
+    "fragmento": "Un miembro de Logística reportó reinicios sin motivo. Se ejecutaron pruebas de energía y se detectó una placa base con condensadores dañados. Se reemplazó la placa y el equipo dejó de reiniciarse."
+  },
+  {
+    "pagina": 6,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no carga batería por adaptador incompatible",
+    "fragmento": "Una colaboradora de Calidad mencionó que su laptop no cargaba pese a estar conectada. Se confirmó que el cargador era de otro modelo. Al usar el adaptador original, la carga se restableció de inmediato."
+  },
+  {
+    "pagina": 6,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Excel lento por complemento de contabilidad defectuoso",
+    "fragmento": "En Finanzas se reportó lentitud extrema en Excel. Se desactivó un complemento de contabilidad instalado recientemente. Después de eliminarlo, los archivos se abrieron normalmente sin retardos."
+  },
+  {
+    "pagina": 6,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "VPN no conecta por configuración errónea del cliente",
+    "fragmento": "En Ventas, la VPN rechazaba la autenticación del usuario. Se verificó que la configuración apuntaba a un servidor antiguo. Se corrigió la dirección del servidor y la conexión se estableció correctamente."
+  },
+  {
+    "pagina": 7,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Computadora no detecta red Wi-Fi",
+    "fragmento": "En Operaciones se presentó un caso donde la PC no detectaba redes Wi-Fi. El adaptador estaba deshabilitado desde el sistema. Se reactivó el adaptador y se actualizó el controlador. La conexión se restauró exitosamente."
+  },
+  {
+    "pagina": 7,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Monitor con línea blanca por defecto físico",
+    "fragmento": "En Innovación, un monitor mostraba una línea blanca vertical. Se probó en otro equipo y persistía el problema. Se reemplazó el panel LCD y el monitor volvió a funcionar correctamente."
+  },
+  {
+    "pagina": 7,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de facturación no carga correctamente",
+    "fragmento": "En el área de Ventas se presentó un error al intentar acceder al sistema de facturación. La aplicación quedaba en pantalla blanca. Se descubrió que el servicio de base de datos estaba detenido. Se reinició el servicio SQL y se restauró el acceso normal."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Segunda pantalla no detectada por controlador de video",
+    "fragmento": "Un operador de Producción reportó que su segundo monitor no era reconocido por Windows. Tras actualizar los controladores de video y reconectar los cables HDMI, el sistema detectó la pantalla secundaria correctamente."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Correo no envía mensajes por bloqueo del servidor SMTP",
+    "fragmento": "En Logística se detectó que el cliente de correo podía recibir mensajes, pero no enviarlos. Se revisó la configuración SMTP y se descubrió que el puerto estaba bloqueado por el firewall. Al habilitarlo, los correos comenzaron a enviarse sin problemas."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Desempeño lento por alto consumo de CPU",
+    "fragmento": "En Desarrollo de Producto, un ingeniero reportó lentitud general en su equipo. Al revisar el Administrador de tareas, se identificó un proceso en bucle consumiendo 95% del CPU. Se desinstaló el software conflictivo y la velocidad se normalizó."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Puertos USB no reconocen dispositivos",
+    "fragmento": "En Calidad, varios dispositivos USB no eran detectados. Se verificó que los controladores de chipset estaban desactualizados. Tras reinstalar los controladores y reiniciar el equipo, todos los puertos funcionaron normalmente."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Impresora no responde por error de spooler",
+    "fragmento": "En Recursos Humanos, la impresora no respondía pese a estar encendida. Se detectó un atasco en la cola de impresión. Se eliminó el contenido del spooler y se reinició el servicio de impresión, recuperando la funcionalidad."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Aplicación de nómina se cierra por conflicto con base de datos",
+    "fragmento": "En Recursos Humanos, el software de gestión de nómina se cerraba sin mostrar errores. Se revisaron los logs del sistema y se identificó un conflicto con la conexión ODBC. Se actualizó el conector y el sistema volvió a funcionar."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "No se puede iniciar sesión en Windows",
+    "fragmento": "En Producción, un empleado no podía iniciar sesión por error en las credenciales. Se restauró la contraseña del dominio y se sincronizó el usuario con el servidor Active Directory. El acceso fue restablecido correctamente."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Cámara no funciona en videollamadas",
+    "fragmento": "Una empleada de Marketing indicó que su cámara no se activaba en reuniones virtuales. Se comprobó que la privacidad del sistema bloqueaba el acceso a la cámara. Se habilitó el permiso y se actualizó el driver, corrigiendo la falla."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Conexión VPN inestable por error de DNS",
+    "fragmento": "En Ventas se presentaba una conexión intermitente a la VPN. Tras revisar el registro, se descubrió que el DNS configurado era incorrecto. Se cambió por el DNS corporativo y la conexión se estabilizó."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema contable no genera reportes",
+    "fragmento": "Un analista de Finanzas no podía generar reportes en el sistema contable. El análisis mostró que el motor de informes Crystal Reports estaba dañado. Se reinstaló la herramienta y se aplicó un parche del proveedor. Los reportes volvieron a generarse."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Error de red por tarjeta inalámbrica deshabilitada",
+    "fragmento": "En Operaciones, una computadora no detectaba ninguna red Wi-Fi. Se descubrió que el adaptador inalámbrico estaba deshabilitado en BIOS. Se reactivó y se actualizó el controlador, resolviendo el problema."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Equipo no enciende por daño en fuente de energía",
+    "fragmento": "En Logística, un equipo de escritorio no encendía. Tras medir la corriente, se detectó un fallo en la fuente de poder. Se reemplazó la fuente y la computadora arrancó correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Micrófono no detectado en laptop",
+    "fragmento": "Un usuario del área de Innovación reportó que su micrófono no era reconocido. Se reinstaló el controlador de audio y se revisaron los permisos de grabación en el sistema. El dispositivo volvió a funcionar."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Problemas de conexión interna por firewall activo",
+    "fragmento": "Un colaborador de Compras no lograba conectarse al servidor de archivos compartidos. El firewall local bloqueaba las conexiones SMB. Se creó una excepción y el acceso a la red se restableció."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Outlook no abre adjuntos por restricción de seguridad",
+    "fragmento": "En Finanzas, un usuario no podía abrir archivos adjuntos en Outlook. Se descubrió una política de seguridad aplicada recientemente. Se ajustó la configuración de confianza y los archivos pudieron abrirse correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Excel se congela por falta de memoria virtual",
+    "fragmento": "Un usuario de Contabilidad informó que Excel se congelaba al manipular datos grandes. Se amplió la memoria virtual del sistema y se optimizó el archivo de paginación. La aplicación volvió a responder normalmente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de inventario no guarda cambios",
+    "fragmento": "En Operaciones se presentó un error al guardar registros en el sistema de inventario. El servidor SQL tenía permisos insuficientes para escritura. Se corrigieron los permisos y los cambios comenzaron a guardarse correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no inicia por error de disco duro",
+    "fragmento": "Un técnico de Producción reportó que la laptop no avanzaba del logotipo de inicio. Se diagnosticó un fallo en el disco SSD. Se reemplazó la unidad y se reinstaló el sistema operativo, restaurando la funcionalidad del equipo."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Correo Outlook no sincroniza correctamente",
+    "fragmento": "Un trabajador de Ventas indicó que Outlook no descargaba correos nuevos. Se verificó el archivo PST dañado y se ejecutó la herramienta ScanPST. Tras la reparación, los correos comenzaron a sincronizarse normalmente."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Aplicación de cotizaciones no genera archivos PDF",
+    "fragmento": "Un usuario del área de Ventas reportó que el sistema de cotizaciones no generaba archivos PDF. Tras revisar los registros, se detectó que el motor de exportación estaba deshabilitado. Se reinstaló el complemento de generación de informes y se reanudó la exportación normal."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de gestión de personal se cierra al guardar registros",
+    "fragmento": "En Recursos Humanos se reportó que el software de gestión de personal se cerraba al intentar registrar nuevos empleados. Se detectó un conflicto de compatibilidad con la base de datos. Tras aplicar un parche del proveedor, el sistema volvió a funcionar correctamente."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Mouse no detectado tras actualización de Windows",
+    "fragmento": "Un usuario del área de Contabilidad indicó que su mouse dejó de funcionar después de una actualización. Se verificó que el controlador se había desinstalado automáticamente. Se reinstaló el driver y el dispositivo volvió a funcionar."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de inventario lento por exceso de registros",
+    "fragmento": "En el área de Operaciones, el sistema de inventario tardaba minutos en cargar. Se descubrió que la base de datos contenía millones de registros sin depurar. Se realizó una limpieza de logs antiguos y la velocidad mejoró significativamente."
+  },
+  {
+    "pagina": 8,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no enciende por problema en el botón de encendido",
+    "fragmento": "Un empleado de Logística reportó que su laptop no encendía. Se comprobó que el botón de encendido no hacía contacto. Se reemplazó el módulo del botón y el equipo arrancó sin inconvenientes."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "No se puede imprimir desde Word por controlador corrupto",
+    "fragmento": "Una trabajadora de Compras no podía imprimir documentos desde Word, aunque otros programas sí funcionaban. Se reinstaló el controlador de impresora y se eliminó la cola de impresión. El error desapareció."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Cámara web deshabilitada por política de privacidad",
+    "fragmento": "En Marketing, una usuaria no lograba activar su cámara. Se verificó que los permisos de privacidad bloqueaban el acceso. Se habilitó la cámara en Configuración y se actualizó el controlador, resolviendo el inconveniente."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema CRM no guarda registros por error de permisos",
+    "fragmento": "En Producción, el sistema CRM no guardaba los cambios de los clientes. Se descubrió que el usuario no tenía permisos de escritura sobre la carpeta temporal. Se asignaron permisos adecuados y el sistema volvió a operar con normalidad."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no reconoce el adaptador de red",
+    "fragmento": "En Innovación, un colaborador no podía conectarse por cable LAN. Se descubrió que el adaptador de red Ethernet estaba deshabilitado en BIOS. Tras habilitarlo y reinstalar el controlador, el acceso a la red se restauró."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Programa de control de calidad se cierra al abrir informes",
+    "fragmento": "En Calidad se registró que el programa de control de calidad se cerraba al generar reportes. El problema se debía a una versión desactualizada del generador de PDF. Tras actualizarlo, los informes se generaron correctamente."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de nómina no carga por base de datos desconectada",
+    "fragmento": "En Recursos Humanos, el software de nómina no iniciaba. Se detectó que la conexión ODBC hacia el servidor SQL estaba caída. Se reconfiguró el DSN y la conexión se restableció."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Archivo Excel no guarda cambios por complemento incompatible",
+    "fragmento": "Un analista de Finanzas reportó que sus archivos de Excel no guardaban los cambios. Se identificó un complemento de macros instalado por terceros que interfería con el guardado. Tras eliminarlo, Excel funcionó normalmente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de personal no abre por actualización fallida",
+    "fragmento": "En Recursos Humanos, el software de personal no abría después de una actualización automática. Se reinstaló el sistema con el instalador original y se restauró la base de datos. El sistema volvió a iniciar correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Teclado no responde tras conexión de periférico nuevo",
+    "fragmento": "En Compras, un teclado dejó de funcionar después de conectar una cámara web. Se detectó conflicto de controladores en el bus USB. Se desinstaló el driver duplicado y el teclado volvió a responder."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "PC se apaga al iniciar software de diseño 3D",
+    "fragmento": "En Diseño, un equipo se apagaba al abrir un programa 3D. Se comprobó que la fuente de poder no soportaba el consumo de la GPU. Se reemplazó la fuente por una de mayor capacidad. El software corrió sin apagones."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Mouse se mueve solo por interferencia inalámbrica",
+    "fragmento": "En Marketing, un usuario observó movimiento aleatorio del cursor. Se descubrió interferencia de otro dispositivo Bluetooth cercano. Se cambió el canal inalámbrico y el mouse volvió a funcionar con precisión."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Pantalla azul por falla en controlador de video",
+    "fragmento": "En Producción, un usuario experimentó pantallas azules al iniciar Windows. Se actualizó el driver de la tarjeta gráfica y se reinstaló DirectX. El sistema dejó de presentar errores."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema contable se congela por error en macros",
+    "fragmento": "En Finanzas, un contador notó que su sistema contable se congelaba al procesar reportes. El error provenía de una macro obsoleta. Se reescribió el script y el programa volvió a funcionar correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Wi-Fi no se conecta por clave de red incorrecta",
+    "fragmento": "Un usuario de Logística no podía conectarse al Wi-Fi corporativo. Tras revisar la configuración, se descubrió una contraseña antigua guardada. Se eliminó la red y se reconectó con la nueva clave, resolviendo el problema."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no carga por BIOS desactualizado",
+    "fragmento": "En el área de Calidad, una laptop no cargaba a pesar de usar el cargador correcto. Se descubrió que la versión del BIOS no gestionaba adecuadamente la batería. Se actualizó y la carga se normalizó."
+  },
+{
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de gestión de inventarios no abre correctamente",
+    "fragmento": "En Operaciones se reportó que el sistema de inventarios no abría tras una actualización. Se descubrió que el archivo ejecutable fue bloqueado por el antivirus. Se añadió una excepción en la lista de confianza y la aplicación volvió a iniciarse sin errores."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Fallo en conexión de servidor compartido",
+    "fragmento": "Un usuario de Compras no podía acceder a los archivos del servidor. Se identificó un cambio de IP en el servidor compartido. Se actualizó la dirección de red en las unidades mapeadas y se recuperó el acceso a los documentos."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Actualización de Office genera lentitud en el sistema",
+    "fragmento": "En Finanzas, varios empleados reportaron que tras actualizar Microsoft Office, las aplicaciones tardaban en iniciar. Se desactivaron complementos en segundo plano y se optimizó el inicio rápido. La velocidad de apertura mejoró notablemente."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "CRM no sincroniza datos con el servidor",
+    "fragmento": "En Ventas, un agente informó que el CRM no sincronizaba la información del cliente. Se halló una interrupción en la conexión con el servidor central. Tras restablecer la VPN y reconfigurar la sincronización, los datos se actualizaron correctamente."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Pantalla externa no detectada por la laptop",
+    "fragmento": "En Producción, un usuario no podía proyectar su pantalla en un monitor externo. Se verificó la configuración de pantalla y se actualizó el controlador de video. La segunda pantalla se detectó correctamente después del reinicio."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Impresora muestra error de papel atascado",
+    "fragmento": "Una operadora de Producción reportó que su impresora no imprimía debido a un error de papel atascado. Se abrió la bandeja, se retiró una hoja mal posicionada y se reinició el dispositivo. El error desapareció y la impresora volvió a funcionar."
+  },
+  {
+    "pagina": 9,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Correo Outlook no sincroniza correctamente con Exchange",
+    "fragmento": "Un usuario de Producción informó que su Outlook no sincronizaba con el servidor Exchange. Se detectó que el archivo OST estaba dañado. Se creó un nuevo perfil y la sincronización volvió a funcionar normalmente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no arranca por error en el disco de arranque",
+    "fragmento": "En Producción, una laptop no pasaba del logo de inicio. Se ejecutó una reparación de arranque desde el entorno de recuperación. Al reparar el MBR, el sistema volvió a iniciar sin inconvenientes."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Teclado sin respuesta en laptop nueva",
+    "fragmento": "En Compras, una empleada informó que el teclado de su nueva laptop no respondía. Se detectó un controlador genérico mal instalado. Se reinstaló el driver adecuado del fabricante y el teclado funcionó correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de ventas no carga debido a error del servidor",
+    "fragmento": "En Ventas, el sistema de ventas quedaba congelado al iniciar sesión. Se revisó la red y se identificó que el servidor de autenticación estaba caído. Tras reiniciarlo, el sistema volvió a funcionar con normalidad."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Conexión Wi-Fi inestable por interferencia de red",
+    "fragmento": "En Logística, una computadora se desconectaba frecuentemente del Wi-Fi. Se encontró que la red usaba el mismo canal que otro router cercano. Se cambió el canal en el punto de acceso y la conexión se estabilizó."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de correo no envía mensajes",
+    "fragmento": "Una analista de Marketing reportó que podía recibir pero no enviar correos. Se descubrió que el servidor SMTP estaba bloqueado por antivirus. Se agregó a la lista de confianza y los correos se enviaron sin errores."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Computadora muy lenta por procesos en segundo plano",
+    "fragmento": "En Desarrollo de Producto, un colaborador informó que su equipo tardaba demasiado en abrir programas. Se revisó el Administrador de tareas y se deshabilitaron servicios innecesarios. La velocidad general del sistema mejoró."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Laptop no reconoce dispositivos USB externos",
+    "fragmento": "En Calidad, un usuario reportó que la laptop no reconocía memorias USB. Se reinstalaron los controladores de chipset y se actualizó el firmware del BIOS. Los dispositivos fueron reconocidos correctamente tras el reinicio."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Equipo se apaga por picos de energía",
+    "fragmento": "En Logística, una computadora se apagaba sin razón aparente. Se descubrió un protector de voltaje defectuoso. Se reemplazó el regulador de energía y el problema se resolvió."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Correo corporativo bloqueado por políticas de seguridad",
+    "fragmento": "En Finanzas, un usuario no podía acceder a su correo. Se identificó que el servidor bloqueó la cuenta por intento de acceso sospechoso. Se verificó la identidad y se desbloqueó la cuenta. El acceso fue restablecido."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Sistema de control de calidad no genera reportes PDF",
+    "fragmento": "En el área de Calidad, los reportes no se exportaban en formato PDF. Se reinstaló la librería de exportación y se corrigieron permisos en la carpeta temporal. Los reportes volvieron a generarse correctamente."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Monitor muestra pantalla borrosa",
+    "fragmento": "En Producción, un usuario notó que la pantalla se veía borrosa tras conectar un monitor externo. Se ajustó la frecuencia de actualización a 60 Hz y se reemplazó el cable HDMI. La imagen volvió a mostrarse con nitidez."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Aplicación de diseño se congela por falta de RAM",
+    "fragmento": "En Diseño, la aplicación de modelado 3D se congelaba con frecuencia. Se aumentó la memoria RAM del equipo y se ajustó el archivo de paginación. El programa volvió a funcionar sin interrupciones."
+  },
+  {
+    "pagina": 10,
+    "archivo_origen": "casos_historicos_TI.pdf",
+    "subtitulo": "Mouse inalámbrico no responde por batería descargada",
+    "fragmento": "Un usuario del área de Innovación reportó que su mouse inalámbrico no respondía. Se verificó que las baterías estaban agotadas. Se reemplazaron y el dispositivo volvió a funcionar correctamente."
+  }
+]

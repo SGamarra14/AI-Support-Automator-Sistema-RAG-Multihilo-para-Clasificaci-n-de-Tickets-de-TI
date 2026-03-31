@@ -1,0 +1,271 @@
+[
+{
+"transcripcion_1": "Persona 1:\n Hola, buenos días. Soy Antonio Vargas Luna, del área de Diseño. Mi computadora se apaga sola y no puedo seguir trabajando.\n\n Persona 2:\n Buenos días, Antonio. Habla Daniela del área de Soporte de TI. Entiendo. ¿Podrías confirmarme tu código de empleado?\n\n Persona 1:\n Claro, 03452.\n\n Persona 2:\n Perfecto. ¿Desde cuándo pasa esto?\n\n Persona 1:\n Desde ayer por la tarde, y hoy volvió a suceder hace poco.\n\n Persona 2:\n ¿Es la primera vez o ya lo habías notado antes?\n\n Persona 1:\n Es la primera vez.\n\n Persona 2:\n ¿Piensas que es software o hardware?\n\n Persona 1:\n Hardware, probablemente la fuente de poder.\n\n Persona 2:\n De acuerdo. Código del equipo.\n\n Persona 1:\n PC-DISE-205.\n\n Persona 2:\n Anotado. Teléfono y correo, por favor.\n\n Persona 1:\n 55-1111-2222, avargas@empresa.com.\n\n Persona 2:\n Gracias. Ticket TCK-2025-00001 creado. Te contactaremos.\n\n Persona 1:\n Perfecto, gracias."
+},
+
+{
+"transcripcion_2": "Persona 1:\n Hola, Rodrigo. Soy Mónica Herrera Campos, de Compras. Necesito ayuda: mi teclado deja de responder de repente.\n\n Persona 2:\n Buenos días, Mónica. Habla Rodrigo de Soporte de TI. ¿Cuál es tu código de empleado?\n\n Persona 1:\n 05678.\n\n Persona 2:\n Entendido. ¿Desde cuándo ocurre?\n\n Persona 1:\n Desde el martes a las 9 de la mañana.\n\n Persona 2:\n ¿Te había pasado antes?\n\n Persona 1:\n Sí, un par de veces el mes pasado.\n\n Persona 2:\n ¿Crees que sea hardware o software?\n\n Persona 1:\n Hardware, tal vez el puerto USB.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-COMP-122.\n\n Persona 2:\n Perfecto. Teléfono y correo.\n\n Persona 1:\n 55-9999-8888, mherrera@empresa.com.\n\n Persona 2:\n Ticket TCK-2025-00002 generado. Te avisaremos.\n\n Persona 1:\n Muchas gracias."
+},
+
+{
+"transcripcion_3": "Persona 1:\n Buenas tardes. Soy Francisco Díaz Ramos, del área de Ventas. El CRM congela mi computadora.\n\n Persona 2:\n Hola, Francisco. Habla Yolanda de Soporte de TI. ¿Cuál es tu código de empleado?\n\n Persona 1:\n 09876.\n\n Persona 2:\n ¿Desde cuándo sucede?\n\n Persona 1:\n Desde ayer a las 3 p.m.\n\n Persona 2:\n ¿Ya te había pasado antes?\n\n Persona 1:\n Hace dos semanas, pero se arregló reiniciando.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, sin duda.\n\n Persona 2:\n Código de tu equipo.\n\n Persona 1:\n PC-VENT-401.\n\n Persona 2:\n Teléfono y correo.\n\n Persona 1:\n 55-3333-5555, fdiaz@empresa.com.\n\n Persona 2:\n Ticket TCK-2025-00003 abierto. Te avisamos pronto.\n\n Persona 1:\n Gracias, Yolanda."
+},
+
+{
+"transcripcion_4": "Persona 1:\n Hola, Sandra. Soy Gabriela Suárez Mena, de Contabilidad. Mi impresora no imprime nada.\n\n Persona 2:\n Hola, Gabriela. Habla Sandra del área de TI. ¿Podrías darme tu código de empleado?\n\n Persona 1:\n 05931.\n\n Persona 2:\n Perfecto. ¿Desde cuándo pasa esto?\n\n Persona 1:\n Desde hoy a las 8:30 a.m.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí, nunca antes.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, me sale “Driver no encontrado”.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-CONT-204.\n\n Persona 2:\n Teléfono y correo.\n\n Persona 1:\n 55-7777-9999, gsuarez@empresa.com.\n\n Persona 2:\n Ticket TCK-2025-00004 creado. Te contactamos.\n\n Persona 1:\n Gracias, Sandra."
+},
+
+{
+"transcripcion_5": "Persona 1:\n Buenos días, habla Adrián Flores López, de Recursos Humanos. Mi computadora se queda colgada en la pantalla de inicio de Windows.\n\n Persona 2:\n Hola, Adrián. Habla Luis del Soporte de TI. ¿Tu código de empleado?\n\n Persona 1:\n 07456.\n\n Persona 2:\n Entendido. ¿Desde cuándo sucede?\n\n Persona 1:\n Hoy a las 9 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Sospecho software, tal vez una actualización.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-RH-310.\n\n Persona 2:\n Teléfono y correo.\n\n Persona 1:\n 55-1010-4040, aflores@empresa.com.\n\n Persona 2:\n Ticket TCK-2025-00005 abierto. Te llamaremos.\n\n Persona 1:\n Gracias, Luis."
+},
+
+{
+"transcripcion_6": "Persona 1:\n Buenos días, soy Diego Robles Valdez, de Marketing. El mouse se mueve solo en mi pantalla.\n\n Persona 2:\n Buenos días, Diego. Habla Marcela de Soporte de TI. Código de empleado, por favor.\n\n Persona 1:\n 02211.\n\n Persona 2:\n ¿Desde cuándo sucede?\n\n Persona 1:\n Desde ayer a las 4 p.m.\n\n Persona 2:\n ¿Te había pasado antes?\n\n Persona 1:\n No, nunca.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n No estoy seguro, quizá acceso remoto.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-MKT-507.\n\n Persona 2:\n Teléfono y correo.\n\n Persona 1:\n 55-2020-3030, drobles@empresa.com.\n\n Persona 2:\n Ticket TCK-2025-00006 creado. Seguridad revisará el acceso.\n\n Persona 1:\n Perfecto, gracias."
+},
+
+{
+"transcripcion_7": "Persona 1:\n Hola, soy María Beltrán Soto, de Proyectos Especiales. Mi pantalla parpadea y se ve borrosa.\n\n Persona 2:\n Hola, María. Habla Julio del área de TI. Código de empleado.\n\n Persona 1:\n 04523.\n\n Persona 2:\n ¿Desde cuándo pasa?\n\n Persona 1:\n Desde hoy a las 8 a.m.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Hardware, probablemente el cable o la tarjeta.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n LAP-PROY-706.\n\n Persona 2:\n Ticket TCK-2025-00007 generado. Te avisaremos.\n\n Persona 1:\n Gracias, Julio."
+},
+
+{
+"transcripcion_8": "Persona 1:\n Buenos días, soy Juan Alberto Pineda, de Finanzas. Excel se cierra cuando abro archivos grandes.\n\n Persona 2:\n Hola, Juan. Habla Elena del área de Soporte de TI. ¿Tu código de empleado?\n\n Persona 1:\n 08764.\n\n Persona 2:\n ¿Desde cuándo ocurre?\n\n Persona 1:\n Desde el lunes a las 10 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, seguro de Office.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-FIN-909.\n\n Persona 2:\n Ticket TCK-2025-00008. Lo marcamos como prioritario.\n\n Persona 1:\n Gracias, Elena."
+},
+
+{
+"transcripcion_9": "Persona 1:\n Buenos días, Lucía Reyes Castro del área de Producción. No tengo audio en mi computadora.\n\n Persona 2:\n Hola, Lucía. Habla Javier de Soporte de TI. Código de empleado, por favor.\n\n Persona 1:\n 04826.\n\n Persona 2:\n ¿Desde cuándo pasa?\n\n Persona 1:\n Desde hace tres días.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, creo que el driver de audio.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-PROD-811.\n\n Persona 2:\n Ticket TCK-2025-00009 generado. Revisaremos los controladores.\n\n Persona 1:\n Muchas gracias, Javier."
+},
+
+{
+"transcripcion_10": "Persona 1:\n Hola, Paola. Soy Sergio Ibáñez Méndez, de Calidad. La resolución de mi pantalla cambió sola.\n\n Persona 2:\n Buenos días, Sergio. Habla Paola del área de TI. Código de empleado.\n\n Persona 1:\n 05339.\n\n Persona 2:\n ¿Desde cuándo ocurre?\n\n Persona 1:\n Desde ayer a las 2 p.m.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, quizá el controlador.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-CAL-618.\n\n Persona 2:\n Ticket TCK-2025-00010 creado. Se revisará pronto.\n\n Persona 1:\n Gracias, Paola."
+},
+
+{
+"transcripcion_11": "Persona 1:\n Buenos días, soy Julián Martínez Romero, del área de Ventas. Mi computadora no reconoce dispositivos USB.\n\n Persona 2:\n Hola, Julián. Habla Adriana del Soporte de TI. ¿Tu código de empleado?\n\n Persona 1:\n 09821.\n\n Persona 2:\n Entendido. ¿Desde cuándo pasa?\n\n Persona 1:\n Hoy a las 8:30 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n No estoy seguro, tal vez controladores dañados.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-VENT-563.\n\n Persona 2:\n Ticket TCK-2025-00100. Te llamaremos.\n\n Persona 1:\n Gracias, Adriana."
+},
+
+{
+"transcripcion_12": "Persona 1:\n Hola, soy Valeria Mendoza Sánchez, de Recursos Humanos. El software de gestión de personal se cierra solo.\n\n Persona 2:\n Hola, Valeria. Habla Roberto del área de TI. Código de empleado.\n\n Persona 1:\n 06220.\n\n Persona 2:\n ¿Desde cuándo pasa?\n\n Persona 1:\n Desde las 10 a.m. de hoy.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, todo lo demás funciona bien.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-RH-477.\n\n Persona 2:\n Ticket TCK-2025-00101 generado. Te contactaremos.\n\n Persona 1:\n Gracias, Roberto."
+},
+
+{
+"transcripcion_13": "Persona 1:\n Buenos días, soy Isabel de Soporte de TI. ¿Con quién hablo?\n\n Persona 2:\n José Luis Aguilar Betancourt, de Producción. Outlook me pide la contraseña una y otra vez.\n\n Persona 1:\n ¿Tu código de empleado?\n\n Persona 2:\n 04576.\n\n Persona 1:\n ¿Desde cuándo pasa?\n\n Persona 2:\n Hoy a las 7:30 a.m.\n\n Persona 1:\n ¿Primera vez?\n\n Persona 2:\n Sí.\n\n Persona 1:\n Software o hardware.\n\n Persona 2:\n Software, autenticación.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n PC-PROD-330.\n\n Persona 1:\n Ticket TCK-2025-00102 creado.\n\n Persona 2:\n Gracias, Isabel."
+},
+
+{
+"transcripcion_14": "Persona 1:\n Hola, Armando. Soy Teresa López Gutiérrez, de Marketing. No puedo reproducir videos, se queda la pantalla en negro.\n\n Persona 2:\n Hola, Teresa. Habla Armando del área de TI. Código de empleado.\n\n Persona 1:\n 03741.\n\n Persona 2:\n ¿Desde cuándo pasa?\n\n Persona 1:\n Ayer a las 12:30 p.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Software, quizá driver de video.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-MKT-225.\n\n Persona 2:\n Ticket TCK-2025-00103 abierto. Te avisamos.\n\n Persona 1:\n Gracias."
+},
+
+{
+"transcripcion_15": "Persona 1:\n Buenos días, soy Santiago Peña Martínez, de Logística. Mi computadora se reinicia sola.\n\n Persona 2:\n Hola, Santiago. Habla Lorena de TI. Código de empleado.\n\n Persona 1:\n 08119.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Desde antier, varias veces.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n No, ya pasó hace semanas.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Hardware, quizá placa base.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-LOG-340.\n\n Persona 2:\n Ticket TCK-2025-00104. Te llamaremos.\n\n Persona 1:\n Gracias, Lorena."
+},
+
+{
+"transcripcion_16": "Persona 1:\n Hola, Karla Romero Flores de Calidad. Mi laptop no carga la batería.\n\n Persona 2:\n Hola, Karla. Habla Alberto del área de TI. Código de empleado.\n\n Persona 1:\n 09354.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Desde ayer a mediodía.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Hardware, seguro la batería.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n LAP-CAL-702.\n\n Persona 2:\n Ticket TCK-2025-00105 generado.\n\n Persona 1:\n Gracias, Alberto."
+},
+
+{
+"transcripcion_17": "Persona 1:\n Hola, Paula. Soy Fernando Delgado Ávila, de Finanzas. Excel tarda mucho en abrir archivos.\n\n Persona 2:\n Buenos días, Fernando. Habla Paula del área de TI. Código de empleado.\n\n Persona 1:\n 02987.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Desde el lunes.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n No, pasó hace meses.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Software, por un complemento nuevo.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-FIN-340.\n\n Persona 2:\n Ticket TCK-2025-00106 creado.\n\n Persona 1:\n Gracias, Paula."
+},
+  {
+"transcripcion_18": "Persona 1:\n Hola, soy Almendra Torres Vázquez, de Ventas. No puedo conectarme a la VPN desde antier.\n\n Persona 2:\n Hola, Almendra. Habla Ricardo del área de Soporte de TI. ¿Cuál es tu código de empleado?\n\n Persona 1:\n 10654.\n\n Persona 2:\n Entendido. ¿Desde cuándo no puedes conectarte exactamente?\n\n Persona 1:\n Desde el martes en la tarde, alrededor de las 5.\n\n Persona 2:\n ¿Ya te había pasado algo similar?\n\n Persona 1:\n Sí, hace unos meses, pero se resolvió cambiando la contraseña.\n\n Persona 2:\n ¿Crees que sea software o hardware?\n\n Persona 1:\n Software, el internet funciona bien.\n\n Persona 2:\n Código de tu equipo.\n\n Persona 1:\n PC-VENT-908.\n\n Persona 2:\n Perfecto. Ticket TCK-2025-00107 generado. Revisaremos tu configuración VPN.\n\n Persona 1:\n Gracias, Ricardo."
+},
+
+{
+"transcripcion_19": "Persona 1:\n Buenos días, soy Marco Acosta Silva, del área de Operaciones. Mi computadora no detecta la red Wi-Fi.\n\n Persona 2:\n Hola, Marco. Habla Karina del área de TI. Código de empleado, por favor.\n\n Persona 1:\n 09117.\n\n Persona 2:\n ¿Desde cuándo pasa?\n\n Persona 1:\n Desde hoy a las 8 a.m.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Tal vez hardware, por la tarjeta inalámbrica.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-OPER-777.\n\n Persona 2:\n Ticket TCK-2025-00108 abierto. Te contactaremos.\n\n Persona 1:\n Gracias, Karina."
+},
+
+{
+"transcripcion_20": "Persona 1:\n Hola, Saúl. Soy Natalia Herrera Camacho, de Innovación. Mi monitor muestra una línea blanca vertical.\n\n Persona 2:\n Buenos días, Natalia. Habla Saúl del departamento de TI. Código de empleado.\n\n Persona 1:\n 05567.\n\n Persona 2:\n ¿Desde cuándo sucede?\n\n Persona 1:\n Desde ayer a las 4 p.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Hardware, el panel del monitor.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-INN-014.\n\n Persona 2:\n Ticket TCK-2025-00109 creado. Revisaremos tu monitor.\n\n Persona 1:\n Gracias, Saúl."
+},
+
+{
+"transcripcion_21": "Persona 1:\n Hola, soy Ricardo Montes García, del área de Finanzas. Mi computadora no se conecta a internet desde esta mañana.\n\n Persona 2:\n Buenos días, Ricardo. Habla Laura del área de Soporte de TI. ¿Podrías darme tu código de empleado?\n\n Persona 1:\n 06589.\n\n Persona 2:\n ¿Desde qué hora empezó?\n\n Persona 1:\n 8:30 a.m.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Creo que software, porque otros sí tienen conexión.\n\n Persona 2:\n Código de tu equipo.\n\n Persona 1:\n PC-FIN-212.\n\n Persona 2:\n Ticket TCK-2025-01003 creado.\n\n Persona 1:\n Gracias, Laura."
+},
+
+{
+"transcripcion_22": "Persona 1:\n Hola, soy Patricia Herrera López, de Recursos Humanos. Mi impresora no imprime desde ayer.\n\n Persona 2:\n Buenos días, Patricia. Habla Adrián de Soporte de TI. Código de empleado.\n\n Persona 1:\n 08976.\n\n Persona 2:\n ¿Desde cuándo empezó?\n\n Persona 1:\n Ayer a las 5 p.m.\n\n Persona 2:\n ¿Es la primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, porque la impresora enciende.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-RH-134.\n\n Persona 2:\n Ticket TCK-2025-01004 generado.\n\n Persona 1:\n Gracias, Adrián."
+},
+
+{
+"transcripcion_23": "Persona 1:\n Buenos días, soy Esteban del área de TI. ¿Con quién hablo?\n\n Persona 2:\n Hola, Esteban. Soy Miguel Rodríguez Vargas, de Logística. Mi computadora se apaga sola desde ayer.\n\n Persona 1:\n Entendido. ¿Cuál es tu código de empleado?\n\n Persona 2:\n 07412.\n\n Persona 1:\n ¿Desde qué hora comenzó?\n\n Persona 2:\n 11:00 a.m. de ayer.\n\n Persona 1:\n ¿Primera vez?\n\n Persona 2:\n Sí.\n\n Persona 1:\n ¿Software o hardware?\n\n Persona 2:\n Hardware, tal vez la fuente de poder.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n PC-LOG-332.\n\n Persona 1:\n Ticket TCK-2025-01005 creado. Te avisaremos.\n\n Persona 2:\n Gracias, Esteban."
+},
+
+{
+"transcripcion_24": "Persona 1:\n Hola, soy Andrés González Ruiz, del área de Producción. Mi computadora no arranca.\n\n Persona 2:\n Buenos días, Andrés. Habla Sofía de Soporte de TI. Código de empleado.\n\n Persona 1:\n 09321.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Desde las 7:30 a.m. de hoy.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Hardware, posiblemente disco duro.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-PROD-521.\n\n Persona 2:\n Ticket TCK-2025-01006 generado.\n\n Persona 1:\n Gracias, Sofía."
+},
+
+{
+"transcripcion_25": "Persona 1:\n Buenos días, soy Elena Ramírez Guzmán, de Compras. Mi teclado dejó de funcionar.\n\n Persona 2:\n Hola, Elena. Habla Matías del área de TI. ¿Tu código de empleado?\n\n Persona 1:\n 06678.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Hoy a las 9:00 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n ¿Software o hardware?\n\n Persona 1:\n Software, porque el mouse sí funciona.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-COMP-278.\n\n Persona 2:\n Ticket TCK-2025-01007 creado.\n\n Persona 1:\n Gracias, Matías."
+},
+
+{
+"transcripcion_26": "Persona 1:\n Buenos días, soy Samuel del área de TI. ¿En qué puedo ayudarte?\n\n Persona 2:\n Hola, Samuel. Soy Hugo Álvarez Cárdenas, de Ventas. No puedo acceder al sistema de facturación.\n\n Persona 1:\n Entendido. ¿Tu código de empleado?\n\n Persona 2:\n 07890.\n\n Persona 1:\n ¿Desde cuándo?\n\n Persona 2:\n Desde ayer a las 3 p.m.\n\n Persona 1:\n ¿Primera vez?\n\n Persona 2:\n Sí.\n\n Persona 1:\n Software o hardware.\n\n Persona 2:\n Software, las demás apps funcionan.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n PC-VENT-410.\n\n Persona 1:\n Ticket TCK-2025-01008 generado.\n\n Persona 2:\n Gracias, Samuel."
+},
+
+{
+"transcripcion_27": "Persona 1:\n Hola, soy Martín Sánchez Núñez, de Producción. Mi computadora no reconoce el segundo monitor.\n\n Persona 2:\n Buenos días, Martín. Habla Paola del área de TI. Código de empleado.\n\n Persona 1:\n 08233.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Desde hoy a las 8 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Software, el monitor enciende pero no se detecta.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-PROD-720.\n\n Persona 2:\n Ticket TCK-2025-01009 creado.\n\n Persona 1:\n Gracias, Paola."
+},
+
+{
+"transcripcion_28": "Persona 1:\n Buenos días, soy Lorena Jiménez Ortega, de Logística. No puedo enviar correos desde ayer.\n\n Persona 2:\n Hola, Lorena. Habla Fernando del área de TI. ¿Tu código de empleado?\n\n Persona 1:\n 07128.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Ayer a las 2 p.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Software, recibo pero no envío.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-LOG-580.\n\n Persona 2:\n Ticket TCK-2025-01010 abierto.\n\n Persona 1:\n Gracias, Fernando."
+},
+
+{
+"transcripcion_29": "Persona 1:\n Hola, Carolina. Soy Daniel Pérez Muñoz, de Desarrollo de Producto. Mi computadora está muy lenta.\n\n Persona 2:\n Hola, Daniel. Habla Carolina de Soporte de TI. Código de empleado.\n\n Persona 1:\n 09765.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Desde ayer a las 11 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n No, hace semanas pasó algo similar.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Software, alto consumo de CPU.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n PC-DES-450.\n\n Persona 2:\n Ticket TCK-2025-01011 generado.\n\n Persona 1:\n Gracias, Carolina."
+},
+
+{
+"transcripcion_30": "Persona 1:\n Buenos días, soy Natalia Espinoza Rojas, del área de Calidad. Mi computadora no reconoce los puertos USB.\n\n Persona 2:\n Hola, Natalia. Habla Roberto del área de TI. Código de empleado.\n\n Persona 1:\n 08432.\n\n Persona 2:\n ¿Desde cuándo?\n\n Persona 1:\n Hoy a las 8:45 a.m.\n\n Persona 2:\n ¿Primera vez?\n\n Persona 1:\n Sí.\n\n Persona 2:\n Software o hardware.\n\n Persona 1:\n Software, los puertos parecen bien.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-CAL-670.\n\n Persona 2:\n Ticket TCK-2025-01012 creado. Revisión de controladores.\n\n Persona 1:\n Gracias, Roberto."
+},
+  {
+  "transcripcion_31": "Persona 1:\n Hola, habla Sofía del área de Contabilidad. ¿Podría hablar con Soporte de TI?\n\n Persona 2:\n Buenos días, Sofía. Habla Daniel de Soporte de TI. ¿En qué puedo ayudarte?\n\n Persona 1:\n Mi computadora no reconoce la impresora desde ayer. Aparece como desconectada.\n\n Persona 2:\n Entendido. ¿Podrías indicarme tu código de empleado?\n\n Persona 1:\n Es 06741.\n\n Persona 2:\n Perfecto. ¿Has notado si el problema ocurre solo con esa impresora o con otras también?\n\n Persona 1:\n Solo con esa. Ya probé reiniciar la computadora y nada.\n\n Persona 2:\n Comprendo. ¿Podrías darme el código de tu equipo y tu correo electrónico?\n\n Persona 1:\n Mi equipo es PC-CONT-341 y mi correo sramirez@empresa.com.\n\n Persona 2:\n Gracias. Generaré un ticket para revisar la configuración del driver. Tu número es TCK-2025-01013.\n\n Persona 1:\n Excelente, muchas gracias, Daniel.\n\n Persona 2:\n Con gusto. ¡Buen día!"
+},
+{
+  "transcripcion_32": "Persona 1:\n Buenos días, habla Miguel de TI. ¿Con quién tengo el gusto?\n\n Persona 2:\n Hola, Miguel. Soy Ana Gutiérrez Torres, de Ventas. Mi laptop tarda mucho en encender desde hace unos días.\n\n Persona 1:\n Entiendo. ¿Cuál es tu código de empleado?\n\n Persona 2:\n Es 07987.\n\n Persona 1:\n Perfecto. ¿Desde cuándo notaste esta lentitud?\n\n Persona 2:\n Desde el lunes. Antes iniciaba rápido, ahora tarda más de diez minutos.\n\n Persona 1:\n ¿Sospechas de software o hardware?\n\n Persona 2:\n Tal vez hardware, podría ser el disco duro.\n\n Persona 1:\n Bien. Dime el código de tu equipo y tu correo.\n\n Persona 2:\n LAP-VENT-215 y mi correo agutierrez@empresa.com.\n\n Persona 1:\n Gracias. Generaré el ticket TCK-2025-01014 para revisión.\n\n Persona 2:\n Gracias, Miguel. Espero su llamada."
+},
+{
+  "transcripcion_33": "Persona 1:\n Buenos días, soy Pablo Hernández, de Recursos Humanos. Necesito asistencia técnica.\n\n Persona 2:\n Hola, Pablo. Habla Marcela de Soporte de TI. ¿Cuál es el problema?\n\n Persona 1:\n No puedo acceder al sistema de gestión de personal, me da un error de conexión.\n\n Persona 2:\n ¿Podrías proporcionarme tu código de empleado?\n\n Persona 1:\n Sí, es 06340.\n\n Persona 2:\n Gracias. ¿Desde cuándo ocurre?\n\n Persona 1:\n Desde hoy a las 9:00 a.m.\n\n Persona 2:\n Entendido. Dime tu código de equipo y correo.\n\n Persona 1:\n PC-RH-210, correo phernandez@empresa.com.\n\n Persona 2:\n Perfecto. Crearé el ticket TCK-2025-01015. Te avisaremos pronto.\n\n Persona 1:\n Agradecido, Marcela."
+},
+{
+  "transcripcion_34": "Persona 1:\n Soporte de TI, habla Iván. ¿Con quién hablo?\n\n Persona 2:\n Hola, Iván. Soy Luisa Ramos, de Calidad. Mi laptop no conecta el Bluetooth.\n\n Persona 1:\n Entiendo. ¿Desde cuándo tienes ese problema?\n\n Persona 2:\n Desde ayer al mediodía.\n\n Persona 1:\n ¿Tu código de empleado?\n\n Persona 2:\n 05112.\n\n Persona 1:\n Bien. ¿Crees que sea software o hardware?\n\n Persona 2:\n Creo que software, porque antes funcionaba bien.\n\n Persona 1:\n Dime el código del equipo.\n\n Persona 2:\n LAP-CAL-309.\n\n Persona 1:\n Perfecto. Ticket TCK-2025-01016 generado. Te contactaremos.\n\n Persona 2:\n Gracias, Iván."
+},
+{
+  "transcripcion_35": "Persona 1:\n Hola, habla Adrián Flores de Soporte de TI. ¿Quién me llama?\n\n Persona 2:\n Buenos días, Adrián. Soy Carla Vega, de Innovación. El monitor de mi computadora parpadea constantemente.\n\n Persona 1:\n Entendido, Carla. ¿Cuál es tu código de empleado?\n\n Persona 2:\n Es 08332.\n\n Persona 1:\n ¿Desde cuándo pasa eso?\n\n Persona 2:\n Desde ayer por la tarde.\n\n Persona 1:\n ¿Sospechas que sea hardware o software?\n\n Persona 2:\n Hardware, posiblemente el cable o el monitor.\n\n Persona 1:\n ¿Código de tu equipo?\n\n Persona 2:\n PC-INN-203.\n\n Persona 1:\n Anotado. Tu ticket es TCK-2025-01017.\n\n Persona 2:\n Muchas gracias, Adrián."
+},
+{
+  "transcripcion_36": "Persona 1:\n Buenas tardes, soy Laura Martínez, de Finanzas. ¿Puedo hablar con alguien de Soporte de TI?\n\n Persona 2:\n Claro, Laura. Habla José del área de TI. ¿Qué problema tienes?\n\n Persona 1:\n Mi Excel se cierra al abrir archivos grandes.\n\n Persona 2:\n Entiendo. ¿Tu código de empleado?\n\n Persona 1:\n 06678.\n\n Persona 2:\n ¿Desde cuándo ocurre?\n\n Persona 1:\n Desde el lunes.\n\n Persona 2:\n Dime el código de tu equipo.\n\n Persona 1:\n PC-FIN-601.\n\n Persona 2:\n Perfecto. Generaré ticket TCK-2025-01018.\n\n Persona 1:\n Gracias, José."
+},
+{
+  "transcripcion_37": "Persona 1:\n Área de TI, buenos días. Habla Javier. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Javier. Soy Tomás Gálvez, de Producción. Mi computadora no detecta el disco externo.\n\n Persona 1:\n ¿Tu código de empleado?\n\n Persona 2:\n 09501.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde hoy en la mañana.\n\n Persona 1:\n Dime el código del equipo.\n\n Persona 2:\n PC-PROD-900.\n\n Persona 1:\n Ticket TCK-2025-01019 creado. Te contactaremos.\n\n Persona 2:\n Gracias, Javier."
+},
+{
+  "transcripcion_38": "Persona 1:\n Hola, buenos días. Habla Mariana del área de Compras. ¿Podrían ayudarme con un problema de red?\n\n Persona 2:\n Claro, Mariana. Habla Luis de Soporte. ¿Qué ocurre exactamente?\n\n Persona 1:\n Mi computadora no se conecta al Wi-Fi desde esta mañana.\n\n Persona 2:\n Entiendo. ¿Tu código de empleado?\n\n Persona 1:\n 05442.\n\n Persona 2:\n ¿El resto de tus compañeros tiene conexión?\n\n Persona 1:\n Sí, solo yo tengo el problema.\n\n Persona 2:\n Perfecto. Código de equipo.\n\n Persona 1:\n PC-COMP-455.\n\n Persona 2:\n Ticket TCK-2025-01020 creado.\n\n Persona 1:\n Gracias, Luis."
+},
+{
+  "transcripcion_39": "Persona 1:\n Soporte de TI, habla Andrés. ¿Con quién tengo el gusto?\n\n Persona 2:\n Hola, Andrés. Soy Rocío Vargas, de Logística. No puedo abrir mi correo Outlook, me da un error.\n\n Persona 1:\n Entendido. ¿Tu código de empleado?\n\n Persona 2:\n 07444.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde ayer.\n\n Persona 1:\n Dime el código de tu equipo.\n\n Persona 2:\n PC-LOG-555.\n\n Persona 1:\n Perfecto. Generaré ticket TCK-2025-01021.\n\n Persona 2:\n Gracias, Andrés."
+},
+{
+  "transcripcion_40": "Persona 1:\n Hola, habla Cristian del área de Innovación. ¿Con Soporte de TI?\n\n Persona 2:\n Sí, habla Mónica de TI. ¿Cuál es el problema?\n\n Persona 1:\n Mi laptop no reconoce el micrófono externo.\n\n Persona 2:\n ¿Desde cuándo sucede?\n\n Persona 1:\n Desde hoy en la mañana.\n\n Persona 2:\n Código de empleado y equipo, por favor.\n\n Persona 1:\n 08890, LAP-INN-330.\n\n Persona 2:\n Perfecto. Ticket TCK-2025-01022 creado.\n\n Persona 1:\n Gracias, Mónica."
+},
+{
+  "transcripcion_41": "Persona 1:\n Soporte de TI, buenos días. Habla Ernesto. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Ernesto. Soy Beatriz Salas, de Marketing. No me funciona la cámara en las videollamadas.\n\n Persona 1:\n ¿Desde cuándo notas el problema?\n\n Persona 2:\n Desde ayer.\n\n Persona 1:\n ¿Código de empleado?\n\n Persona 2:\n 02341.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n LAP-MKT-501.\n\n Persona 1:\n Ticket TCK-2025-01023 generado.\n\n Persona 2:\n Gracias, Ernesto."
+},
+{
+  "transcripcion_42": "Persona 1:\n Buenos días, soy Gabriel de Ventas. Necesito soporte urgente.\n\n Persona 2:\n Hola, Gabriel. Habla Teresa del área de TI. ¿Qué sucede?\n\n Persona 1:\n El sistema de cotizaciones no me permite generar PDF.\n\n Persona 2:\n Entiendo. ¿Tu código de empleado?\n\n Persona 1:\n 07111.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-VENT-800.\n\n Persona 2:\n Ticket TCK-2025-01024 creado. Te avisaremos.\n\n Persona 1:\n Muchas gracias, Teresa."
+},
+{
+  "transcripcion_43": "Persona 1:\n Soporte de TI, habla Diana. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Diana. Soy Jorge Ramírez, de Producción. Mi computadora no reconoce el segundo monitor.\n\n Persona 1:\n ¿Código de empleado?\n\n Persona 2:\n 09222.\n\n Persona 1:\n Código de equipo.\n\n Persona 2:\n PC-PROD-444.\n\n Persona 1:\n Ticket TCK-2025-01025 creado.\n\n Persona 2:\n Gracias, Diana."
+},
+{
+  "transcripcion_44": "Persona 1:\n Buen día, soy Rosa del área de Contabilidad. Mi mouse dejó de funcionar.\n\n Persona 2:\n Hola, Rosa. Habla Kevin del Soporte de TI. ¿Desde cuándo sucede?\n\n Persona 1:\n Desde ayer en la tarde.\n\n Persona 2:\n Código de empleado y equipo, por favor.\n\n Persona 1:\n 05980, PC-CONT-504.\n\n Persona 2:\n Perfecto. Ticket TCK-2025-01026 generado.\n\n Persona 1:\n Gracias, Kevin."
+},
+{
+  "transcripcion_45": "Persona 1:\n Soporte técnico, habla Paola. ¿Cuál es el problema?\n\n Persona 2:\n Hola, Paola. Soy David Ramos, de Finanzas. No puedo imprimir reportes, aparece error de cola.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde hoy.\n\n Persona 1:\n ¿Código de empleado?\n\n Persona 2:\n 06432.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n PC-FIN-703.\n\n Persona 1:\n Ticket TCK-2025-01027 generado.\n\n Persona 2:\n Muchas gracias."
+},
+{
+  "transcripcion_46": "Persona 1:\n Hola, habla Mauricio del área de Producción. ¿Podría hablar con TI?\n\n Persona 2:\n Sí, soy Clara de Soporte. ¿Cuál es el problema?\n\n Persona 1:\n Mi computadora no inicia sesión, dice error de usuario.\n\n Persona 2:\n Entendido. Código de empleado.\n\n Persona 1:\n 09322.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-PROD-609.\n\n Persona 2:\n Ticket TCK-2025-01028 creado.\n\n Persona 1:\n Gracias, Clara."
+},
+{
+  "transcripcion_47": "Persona 1:\n Departamento de TI, habla Raúl. ¿En qué puedo ayudarte?\n\n Persona 2:\n Hola, Raúl. Soy Sandra López, de Ventas. El teclado de mi laptop no responde.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde esta mañana.\n\n Persona 1:\n ¿Código de empleado y equipo?\n\n Persona 2:\n 07788, LAP-VENT-310.\n\n Persona 1:\n Ticket TCK-2025-01029 generado.\n\n Persona 2:\n Gracias, Raúl."
+},
+{
+  "transcripcion_48": "Persona 1:\n Hola, soy Patricia Díaz, de Innovación. ¿Soporte disponible?\n\n Persona 2:\n Sí, habla Carlos del área de TI. Cuéntame.\n\n Persona 1:\n El sistema de prototipos no abre, se queda cargando.\n\n Persona 2:\n Código de empleado.\n\n Persona 1:\n 08755.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-INN-431.\n\n Persona 2:\n Ticket TCK-2025-01030 generado.\n\n Persona 1:\n Muchas gracias, Carlos."
+},
+{
+  "transcripcion_49": "Persona 1:\n Soporte de TI, habla Brenda. ¿Cuál es el inconveniente?\n\n Persona 2:\n Hola, Brenda. Soy Alberto Morales, de Logística. Mi PC no enciende.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde hoy en la mañana.\n\n Persona 1:\n Código de empleado.\n\n Persona 2:\n 08543.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n PC-LOG-666.\n\n Persona 1:\n Ticket TCK-2025-01031 creado.\n\n Persona 2:\n Gracias, Brenda."
+},
+{
+  "transcripcion_50": "Persona 1:\n Buenos días, habla César del área de Compras. ¿Podría hablar con Soporte de TI?\n\n Persona 2:\n Hola, César. Habla Ana de TI. ¿Qué problema tienes?\n\n Persona 1:\n No puedo descargar archivos adjuntos del correo corporativo.\n\n Persona 2:\n ¿Desde cuándo sucede?\n\n Persona 1:\n Desde ayer.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 06055, PC-COMP-401.\n\n Persona 2:\n Ticket TCK-2025-01032 generado.\n\n Persona 1:\n Gracias, Ana."
+},
+{
+  "transcripcion_51": "Persona 1:\n Buen día, habla Carla de TI. ¿Con quién tengo el gusto?\n\n Persona 2:\n Hola, Carla. Soy Mario Ortega, de Operaciones. Mi computadora se congela cada vez que abro AutoCAD.\n\n Persona 1:\n Entiendo. ¿Tu código de empleado?\n\n Persona 2:\n 09442.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde ayer en la tarde.\n\n Persona 1:\n Dime el código de tu equipo.\n\n Persona 2:\n PC-OPER-500.\n\n Persona 1:\n Ticket TCK-2025-01033 generado.\n\n Persona 2:\n Gracias, Carla."
+},
+{
+  "transcripcion_52": "Persona 1:\n Hola, soy Verónica Salinas del área de Finanzas. ¿Podrían ayudarme con TI?\n\n Persona 2:\n Claro, habla Ernesto de Soporte. ¿Qué sucede?\n\n Persona 1:\n No puedo abrir archivos PDF; el lector marca error.\n\n Persona 2:\n Entendido. Código de empleado y equipo, por favor.\n\n Persona 1:\n 06870, PC-FIN-733.\n\n Persona 2:\n Ticket TCK-2025-01034 generado. Te contactaremos.\n\n Persona 1:\n Muchas gracias, Ernesto."
+},
+{
+  "transcripcion_53": "Persona 1:\n Departamento de TI, habla Rodrigo. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Rodrigo. Soy Lucía Paredes, de Compras. Mi Excel tarda mucho en guardar los cambios.\n\n Persona 1:\n ¿Desde cuándo pasa esto?\n\n Persona 2:\n Desde el lunes.\n\n Persona 1:\n Código de empleado.\n\n Persona 2:\n 05764.\n\n Persona 1:\n Código de equipo.\n\n Persona 2:\n PC-COMP-520.\n\n Persona 1:\n Ticket TCK-2025-01035 creado.\n\n Persona 2:\n Gracias, Rodrigo."
+},
+{
+  "transcripcion_54": "Persona 1:\n Hola, soy Diego López, de Marketing. ¿Podría hablar con TI?\n\n Persona 2:\n Sí, habla Laura de Soporte. ¿Cuál es el problema?\n\n Persona 1:\n No me funciona el altavoz interno, no se escucha ningún sonido.\n\n Persona 2:\n Entiendo. Código de empleado y equipo.\n\n Persona 1:\n 02345, PC-MKT-408.\n\n Persona 2:\n Ticket TCK-2025-01036 generado.\n\n Persona 1:\n Gracias, Laura."
+},
+{
+  "transcripcion_55": "Persona 1:\n Soporte de TI, habla Paola. ¿Con quién hablo?\n\n Persona 2:\n Hola, Paola. Soy Esteban Morales, de Producción. El CRM no me deja guardar registros.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde esta mañana.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 09771, PC-PROD-880.\n\n Persona 1:\n Ticket TCK-2025-01037 generado.\n\n Persona 2:\n Gracias, Paola."
+},
+{
+  "transcripcion_56": "Persona 1:\n Hola, soy Andrea Gómez, de Innovación. ¿Está disponible Soporte?\n\n Persona 2:\n Sí, habla Julio de TI. Cuéntame tu problema.\n\n Persona 1:\n La laptop no reconoce el adaptador de red.\n\n Persona 2:\n Entendido. Código de empleado.\n\n Persona 1:\n 08663.\n\n Persona 2:\n Código de equipo.\n\n Persona 1:\n LAP-INN-640.\n\n Persona 2:\n Ticket TCK-2025-01038 generado.\n\n Persona 1:\n Gracias, Julio."
+},
+{
+  "transcripcion_57": "Persona 1:\n Área de TI, habla Luis. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Luis. Soy Camila Rivas, de Calidad. El programa de control de calidad se cierra solo.\n\n Persona 1:\n ¿Desde cuándo sucede?\n\n Persona 2:\n Desde ayer.\n\n Persona 1:\n Código de empleado.\n\n Persona 2:\n 05388.\n\n Persona 1:\n Código del equipo.\n\n Persona 2:\n PC-CAL-612.\n\n Persona 1:\n Ticket TCK-2025-01039 creado.\n\n Persona 2:\n Gracias, Luis."
+},
+{
+  "transcripcion_58": "Persona 1:\n Hola, soy Enrique de TI. ¿Quién llama?\n\n Persona 2:\n Buenos días, Enrique. Soy Natalia Cruz, de Recursos Humanos. Mi sistema de nómina no carga.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde hoy.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 06212, PC-RH-332.\n\n Persona 1:\n Ticket TCK-2025-01040 generado.\n\n Persona 2:\n Gracias, Enrique."
+},
+{
+  "transcripcion_59": "Persona 1:\n Hola, habla Rebeca del área de Ventas. ¿Con quién hablo de Soporte?\n\n Persona 2:\n Habla David, del área de TI. Cuéntame tu inconveniente.\n\n Persona 1:\n No puedo abrir los archivos de cotización, dice formato no válido.\n\n Persona 2:\n Entiendo. Código de empleado.\n\n Persona 1:\n 07012.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-VENT-310.\n\n Persona 2:\n Ticket TCK-2025-01041 creado.\n\n Persona 1:\n Gracias, David."
+},
+{
+  "transcripcion_60": "Persona 1:\n Soporte técnico, habla Omar. ¿Cuál es el problema?\n\n Persona 2:\n Hola, Omar. Soy Graciela Flores, de Producción. Mi computadora se reinicia sola.\n\n Persona 1:\n ¿Desde cuándo?\n\n Persona 2:\n Desde el martes.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 09345, PC-PROD-660.\n\n Persona 1:\n Ticket TCK-2025-01042 generado.\n\n Persona 2:\n Gracias, Omar."
+},
+{
+  "transcripcion_61": "Persona 1:\n Buen día, soy Estela de Compras. ¿Podría hablar con TI?\n\n Persona 2:\n Claro, habla Ricardo de Soporte. ¿Qué pasa?\n\n Persona 1:\n No puedo imprimir desde Word, aparece error de controlador.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 06488, PC-COMP-250.\n\n Persona 2:\n Ticket TCK-2025-01043 creado.\n\n Persona 1:\n Gracias, Ricardo."
+},
+{
+  "transcripcion_62": "Persona 1:\n Soporte de TI, habla Alberto. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Alberto. Soy Diana Pérez, de Contabilidad. La computadora no reconoce el mouse.\n\n Persona 1:\n ¿Desde cuándo ocurre?\n\n Persona 2:\n Desde hoy en la mañana.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 05972, PC-CONT-209.\n\n Persona 1:\n Ticket TCK-2025-01044 generado.\n\n Persona 2:\n Gracias, Alberto."
+},
+{
+  "transcripcion_63": "Persona 1:\n Hola, soy Fabián Torres, de Operaciones. ¿Está disponible Soporte?\n\n Persona 2:\n Sí, habla Sandra de TI. ¿Qué problema tienes?\n\n Persona 1:\n El sistema de inventario no guarda los cambios.\n\n Persona 2:\n Código de empleado.\n\n Persona 1:\n 09200.\n\n Persona 2:\n Código del equipo.\n\n Persona 1:\n PC-OPER-410.\n\n Persona 2:\n Ticket TCK-2025-01045 generado.\n\n Persona 1:\n Gracias, Sandra."
+},
+{
+  "transcripcion_64": "Persona 1:\n Soporte técnico, habla Claudia. ¿Con quién tengo el gusto?\n\n Persona 2:\n Hola, Claudia. Soy Mauricio Pérez, de Logística. Mi laptop no enciende.\n\n Persona 1:\n ¿Desde cuándo sucede?\n\n Persona 2:\n Desde esta mañana.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 08180, LAP-LOG-320.\n\n Persona 1:\n Ticket TCK-2025-01046 creado.\n\n Persona 2:\n Gracias, Claudia."
+},
+{
+  "transcripcion_65": "Persona 1:\n Buenos días, soy Rosa del área de Marketing. ¿Puedo hablar con TI?\n\n Persona 2:\n Claro, habla Julio de Soporte. ¿Qué ocurre?\n\n Persona 1:\n No puedo enviar correos desde Outlook.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 02889, PC-MKT-240.\n\n Persona 2:\n Ticket TCK-2025-01047 generado.\n\n Persona 1:\n Gracias, Julio."
+},
+{
+  "transcripcion_66": "Persona 1:\n Hola, habla Pablo de TI. ¿Con quién hablo?\n\n Persona 2:\n Buenos días, Pablo. Soy Leticia Gómez, de Producción. El sistema se queda congelado al iniciar sesión.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 09417, PC-PROD-440.\n\n Persona 1:\n Ticket TCK-2025-01048 creado.\n\n Persona 2:\n Gracias, Pablo."
+},
+{
+  "transcripcion_67": "Persona 1:\n Buen día, soy Andrés de Calidad. ¿Podría hablar con TI?\n\n Persona 2:\n Habla Lorena de Soporte. Cuéntame.\n\n Persona 1:\n Mi computadora muestra pantalla azul al iniciar.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 05312, PC-CAL-800.\n\n Persona 2:\n Ticket TCK-2025-01049 generado.\n\n Persona 1:\n Gracias, Lorena."
+},
+{
+  "transcripcion_68": "Persona 1:\n Soporte de TI, habla Ignacio. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Ignacio. Soy Daniela Reyes, de Finanzas. El sistema contable no genera reportes.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 06611, PC-FIN-330.\n\n Persona 1:\n Ticket TCK-2025-01050 generado.\n\n Persona 2:\n Gracias, Ignacio."
+},
+{
+  "transcripcion_69": "Persona 1:\n Hola, soy Óscar Morales, de Innovación. Necesito ayuda con mi laptop.\n\n Persona 2:\n Habla Marta de TI. ¿Qué ocurre?\n\n Persona 1:\n No carga la batería a pesar de estar enchufada.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 08882, LAP-INN-404.\n\n Persona 2:\n Ticket TCK-2025-01051 generado.\n\n Persona 1:\n Gracias, Marta."
+},
+{
+  "transcripcion_70": "Persona 1:\n Área de TI, habla Jorge. ¿En qué puedo ayudarte?\n\n Persona 2:\n Hola, Jorge. Soy Silvia Campos, de Ventas. El sistema de clientes no abre.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 07292, PC-VENT-512.\n\n Persona 1:\n Ticket TCK-2025-01052 creado.\n\n Persona 2:\n Gracias, Jorge."
+},
+{
+  "transcripcion_71": "Persona 1:\n Hola, soy Laura de Logística. ¿Está alguien de Soporte disponible?\n\n Persona 2:\n Sí, habla Marcos del área de TI. Cuéntame.\n\n Persona 1:\n La computadora no detecta la red interna.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 08310, PC-LOG-490.\n\n Persona 2:\n Ticket TCK-2025-01053 generado.\n\n Persona 1:\n Gracias, Marcos."
+},
+{
+  "transcripcion_72": "Persona 1:\n Soporte técnico, habla Raquel. ¿Cuál es el problema?\n\n Persona 2:\n Hola, Raquel. Soy Héctor Díaz, de Compras. El teclado no responde.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 06700, PC-COMP-309.\n\n Persona 1:\n Ticket TCK-2025-01054 creado.\n\n Persona 2:\n Gracias, Raquel."
+},
+{
+  "transcripcion_73": "Persona 1:\n Buen día, soy Inés del área de Producción. ¿Podría hablar con Soporte?\n\n Persona 2:\n Habla Rodrigo de TI. Dime qué pasa.\n\n Persona 1:\n La impresora muestra error de papel atascado.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 09470, PC-PROD-710.\n\n Persona 2:\n Ticket TCK-2025-01055 generado.\n\n Persona 1:\n Gracias, Rodrigo."
+},
+{
+  "transcripcion_74": "Persona 1:\n Hola, soy Javier del área de TI. ¿Con quién hablo?\n\n Persona 2:\n Hola, Javier. Soy Claudia Martínez, de Recursos Humanos. No puedo entrar al sistema de personal.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 06190, PC-RH-211.\n\n Persona 1:\n Ticket TCK-2025-01056 generado.\n\n Persona 2:\n Gracias, Javier."
+},
+{
+  "transcripcion_75": "Persona 1:\n Hola, habla Lucía de Ventas. ¿Con Soporte de TI?\n\n Persona 2:\n Sí, habla Ernesto. ¿Cuál es tu problema?\n\n Persona 1:\n Mi correo no envía mensajes, solo recibe.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 07512, PC-VENT-640.\n\n Persona 2:\n Ticket TCK-2025-01057 generado.\n\n Persona 1:\n Gracias, Ernesto."
+},
+{
+  "transcripcion_76": "Persona 1:\n Departamento de TI, habla Valeria. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Valeria. Soy Andrés Castillo, de Producción. Mi PC se apaga sola.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 09531, PC-PROD-420.\n\n Persona 1:\n Ticket TCK-2025-01058 generado.\n\n Persona 2:\n Gracias, Valeria."
+},
+{
+  "transcripcion_77": "Persona 1:\n Buenas tardes, soy Felipe del área de Compras. ¿Podría hablar con TI?\n\n Persona 2:\n Sí, habla Paula de Soporte. Cuéntame.\n\n Persona 1:\n No puedo conectarme al servidor de archivos.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 06012, PC-COMP-400.\n\n Persona 2:\n Ticket TCK-2025-01059 generado.\n\n Persona 1:\n Gracias, Paula."
+},
+{
+  "transcripcion_78": "Persona 1:\n Soporte técnico, habla Ignacio. ¿Cómo puedo ayudarte?\n\n Persona 2:\n Hola, Ignacio. Soy Sofía Herrera, de Finanzas. El Excel se congela constantemente.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 06502, PC-FIN-321.\n\n Persona 1:\n Ticket TCK-2025-01060 creado.\n\n Persona 2:\n Gracias, Ignacio."
+},
+{
+  "transcripcion_79": "Persona 1:\n Hola, soy Mónica Ruiz, de Marketing. Necesito ayuda con la conexión Wi-Fi.\n\n Persona 2:\n Habla Sergio de TI. ¿Qué pasa exactamente?\n\n Persona 1:\n No detecta ninguna red disponible.\n\n Persona 2:\n Código de empleado y equipo.\n\n Persona 1:\n 02840, PC-MKT-330.\n\n Persona 2:\n Ticket TCK-2025-01061 generado.\n\n Persona 1:\n Gracias, Sergio."
+},
+{
+  "transcripcion_80": "Persona 1:\n Soporte de TI, habla Adrián. ¿Cuál es el problema?\n\n Persona 2:\n Hola, Adrián. Soy Gabriela López, de Innovación. El mouse se mueve solo.\n\n Persona 1:\n Código de empleado y equipo.\n\n Persona 2:\n 08944, PC-INN-290.\n\n Persona 1:\n Ticket TCK-2025-01062 generado.\n\n Persona 2:\n Gracias, Adrián."
+}
+]
+  

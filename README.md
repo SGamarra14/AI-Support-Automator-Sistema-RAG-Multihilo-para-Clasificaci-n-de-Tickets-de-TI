@@ -1,0 +1,2 @@
+# AI-Support-Automator-Sistema-RAG-Multihilo-para-Clasificaci-n-de-Tickets-de-TI
+Este proyecto implementa un pipeline avanzado de procesamiento de lenguaje natural (NLP) diseñado para automatizar la gestión de soporte técnico de TI. Utilizando una arquitectura de Grafo de Estados (LangGraph), el sistema analiza transcripciones de conversaciones en paralelo para extraer información estructurada y generar recomendaciones precisas
